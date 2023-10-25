@@ -1,0 +1,27 @@
+.container {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container-form {
+  padding: 20px;
+  background-color: gainsboro;
+}
+
+.form {
+  padding-top: 150px;
+  width: 400px;
+  height: 80vh;
+  text-align: center;
+}
+
+.input-form {
+  margin: 30px;
+}
+
+.donor-form{
+  width:10px;
+}
